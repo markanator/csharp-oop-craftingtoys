@@ -1,0 +1,4 @@
+﻿PipeCleaner,0.50,7
+GooglyEyes,0.30,6
+PomPom,0.40,2
+Felt,0.25,1

@@ -1,0 +1,4 @@
+﻿Jellyfish,2.70
+Chameleon,1.25
+Bird,1.42
+Finger Puppet,1.70
